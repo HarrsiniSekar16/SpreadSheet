@@ -1,7 +1,3 @@
-ASSIGNMENT-6 - Harrsini Sekar
-NU ID - 001344424
-mail - sekar.h@northeastern.edu
-
 
 # Description
 To Create a spreadsheet application like Google sheets using Javascript, RxJS, and CSS.
@@ -28,11 +24,6 @@ Should use ES6 syntax.
 Should document your code extensively.
 Should have .gitignore, ReadMe.md files.
 ReadMe.md file should have markdown with project description and instructions to run the project.
-
-## Installation
-1. Clone the repository git clone https://github.com/neu-mis-info6150-spring-2020/assignment-6-HarrsiniSekar.git. 
-2. Navigate to project directory 
-3. Run using code
 
 STEPS TO RUN -
 -> Clone the repo from the respective github using the command - git clone
