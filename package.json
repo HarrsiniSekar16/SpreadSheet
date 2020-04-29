@@ -1,0 +1,22 @@
+{
+  "name": "assignment-6-harrsinisekar",
+  "version": "1.0.0",
+  "description": "ASSIGNMENT-6 - Harrsini Sekar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neu-mis-info6150-spring-2020/assignment-6-HarrsiniSekar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neu-mis-info6150-spring-2020/assignment-6-HarrsiniSekar/issues"
+  },
+  "homepage": "https://github.com/neu-mis-info6150-spring-2020/assignment-6-HarrsiniSekar#readme",
+  "dependencies": {
+    "node-modules": "^1.0.1"
+  }
+}
